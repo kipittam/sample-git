@@ -1,0 +1,29 @@
+[33mcommit 3c5f524f5382b1cbe49772012afc1b9d1132d923[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelopment[m[33m)[m
+Author: Kiran Pittampally <kipittam@microsoft.com>
+Date:   Wed Sep 9 17:20:35 2026 +0530
+
+    Added three.txt on development branch
+
+[33mcommit b7062a84a671f575d796a13cc559fcc5cb66c4ff[m[33m ([m[1;32mmain[m[33m)[m
+Author: Kiran Pittampally <kipittam@microsoft.com>
+Date:   Wed Sep 9 13:37:10 2026 +0530
+
+    thrid msg
+
+[33mcommit ac68c834aa17c9b2d203cb646e39767b08e5d56f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kiran Pittampally <128925039+kipittam@users.noreply.github.com>
+Date:   Mon Sep 7 20:48:40 2026 +0530
+
+    Add two.txt with initial content 'two'
+
+[33mcommit 58673fef590ca478c08def7d35b29e7af0b1431e[m
+Author: Kiran Pittampally <128925039+kipittam@users.noreply.github.com>
+Date:   Mon Sep 7 20:48:12 2026 +0530
+
+    Add one.txt with initial content 'one'
+
+[33mcommit 378e02390697904e9beb271df498b9146a03166f[m
+Author: Kiran Pittampally <128925039+kipittam@users.noreply.github.com>
+Date:   Mon Sep 7 20:46:14 2026 +0530
+
+    Create one_x.txt with initial content
